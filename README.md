@@ -88,4 +88,21 @@ import plotly.express as px
  ## 📫 &nbsp;My Contacts
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Natalia.Aponte.Murillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Natalia-Aponte-Murillo/)](https://www.linkedin.com/in/natalia-aponte-murillo-2443b1266/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-sweetnataly34@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-sweetnataly34@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sweetnataly34@gmail.com)&nbsp;
+
+
+ </div>
+
+ <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
+
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
+<!-- ## 📚 &nbsp;My Projects -->
+
+------
+Credits: [NATALIA3983](https://github.com/NATALIA3983)
+
+Last Edited on: 31/08/2023
